@@ -11,7 +11,7 @@
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   <a href="#usage">Usage</a>
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="https://sherlockproject.xyz/contribute">Contributing</a>
+  <a href="https://github.com/JimmyTarson12/Mypros-Weather/blob/main/LICENSE">License</a>
 </p>
 
 <a name="installation"></a>
