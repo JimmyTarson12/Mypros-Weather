@@ -28,7 +28,7 @@ To run it with the default location of New York City:
 ```bash
 docker run mypro12/mypros-weather:latest
 ```
-You can specify certain coordinates to:
+You can specify certain coordinates:
 ```bash
-docker run -e LATITUDE=51.5074 -e LONGITUDE=-0.1278 mypro12/mypros-weather:latest # current weather for London
+docker run -e LATITUDE=51.5074 -e LONGITUDE=-0.1278 mypro12/mypros-weather:latest
 ```
