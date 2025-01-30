@@ -12,5 +12,5 @@ jobs:
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: "Sorry you are experiencing that issue. Mypro will be with you shortly. (Hopefully)"
+        issue-message: "Sorry you are experiencing that issue. Mypro or someone else will be with you shortly. (Hopefully)"
         pr-message: "Thank you for contributing. Your work is greatly appreciated."
