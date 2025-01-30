@@ -32,3 +32,10 @@ You can specify certain coordinates:
 ```bash
 docker run -e LATITUDE=51.5074 -e LONGITUDE=-0.1278 mypro12/mypros-weather:latest
 ```
+<br>
+<br>
+<div align=center>
+  
+  [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mypro12)
+  
+</div>
