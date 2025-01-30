@@ -16,8 +16,19 @@
 
 <a name="installation"></a>
 ## Installation
-We are still working on that...
+### Docker
+Pull the latest version of the repository from Docker hub
+```bash
+docker pull mypro12/mypros-weather:latest
+```
 
 <a name="usage"></a>
 ## Usage
-We are still working on this one too...
+To run it with the default location of New York City:
+```bash
+docker run mypro12/mypros-weather:latest
+```
+You can specify certain coordinates to:
+```bash
+docker run -e LATITUDE=51.5074 -e LONGITUDE=-0.1278 mypro12/mypros-weather:latest # current weather for London
+```
